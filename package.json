@@ -1,0 +1,17 @@
+{
+  "name": "regtweak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.5.0",
+    "ascii-art-image": "^1.2.2",
+    "cli-progress": "^3.9.0"
+  }
+}
